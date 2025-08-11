@@ -89,7 +89,6 @@ footer .footer-links a:hover {
 .home-page .profile-pic {
   width: 250px;
   height: 250px;
-  border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
 }
@@ -545,3 +544,4 @@ footer .footer-links a:hover {
 .contact-page button:hover {
   background: #1e40af;
 }
+
